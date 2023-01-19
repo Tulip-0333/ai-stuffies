@@ -16,7 +16,7 @@ Make sure to replace `program_name` with the actual name of the C file you want 
 
 ## Running Java files
 
-To run the Java files in this repository, you will need to have the Java Development Kit (JDK) installed.
+To run the Java files in this repository, you will need to have the `Java Development Kit (JDK)` installed.
 
 Use the following command to compile and run the Java files:
 
