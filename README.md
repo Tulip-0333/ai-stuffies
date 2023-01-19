@@ -14,3 +14,13 @@ Use the following command to compile and run the C files:
 
 
 Make sure to replace `program_name` with the actual name of the C file you want to run.
+
+## Running [language] files
+
+To run the [language] files in this repository, you will need `[any necessary software or dependencies]`.
+
+Use the following command to [compile and run/ execute] the [language] files:
+
+`[Command]`
+
+Make sure to replace `[any variables]` with the appropriate values.
