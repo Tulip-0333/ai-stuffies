@@ -15,12 +15,12 @@ Use the following command to compile and run the C files:
 
 Make sure to replace `program_name` with the actual name of the C file you want to run.
 
-## Running [language] files
+## Running Java files
 
-To run the [language] files in this repository, you will need `[any necessary software or dependencies]`.
+To run the Java files in this repository, you will need to have the Java Development Kit (JDK) installed.
 
-Use the following command to [compile and run/ execute] the [language] files:
+Use the following command to compile and run the Java files:
 
-`[Command]`
+`javac program_name.java && java program_name`
 
-Make sure to replace `[any variables]` with the appropriate values.
+Make sure to replace `program_name` with the actual name of the Java file you want to run.
